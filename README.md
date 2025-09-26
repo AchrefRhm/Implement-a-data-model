@@ -61,7 +61,7 @@ Each entity has a corresponding `JpaRepository` for CRUD operations:
 
 ## 📝 Author
 **Achref Rhouma**  
-📧 your-email@example.com  
-🌐 [LinkedIn/GitHub Profile]  
+📧 achrefrhm9@gmail.com  
+🌐 https://www.linkedin.com/in/achref-rhouma-560555246
 
 ---
